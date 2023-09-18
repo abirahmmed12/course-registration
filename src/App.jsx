@@ -9,9 +9,11 @@ function App() {
 
   return (
     <>
-      
+     
       <Home></Home>
-      <div className='max-w-screen-xl m-auto'>
+     
+      
+      <div className='max-w-screen-xl m-auto '>
         
       </div>
      

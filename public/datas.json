@@ -8,7 +8,7 @@
     },
     {
       "img": "https://i.ibb.co/X5mnm82/Rectangle-2-3.png",
-      "course_name": "Introduction to Algorithms",
+      "course_name": "Introduction to Algorithms Design",
       "course_detail": "Study fundamental algorithms and data structures.",
       "price": 59.99,
       "credit_hours": 2
@@ -29,7 +29,7 @@
     },
     {
       "img": "https://i.ibb.co/qD8xh7n/Rectangle-2.png",
-      "course_name": "Object-Oriented Programming in Python",
+      "course_name": " Programming in Python",
       "course_detail": "Master Python's OOP concepts.",
       "price": 69.99,
       "credit_hours": 2

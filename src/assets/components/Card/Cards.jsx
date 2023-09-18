@@ -8,10 +8,11 @@ const Cards = ({selectcard}) => {
             
              {
                 selectcard.map(card=>(
-                    <li key={card.course_name}>{card.course_name}</li>
+                    <li className="text-gray-500" key={card.course_name}>{card.course_name}</li>
 
                 ))
              }
+            
              
 
         </div>
