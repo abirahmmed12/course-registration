@@ -1,0 +1,65 @@
+[
+    {
+      "img": "https://i.ibb.co/SQ5bjsm/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "course_detail": "Learn the fundamentals of programming in C.",
+      "price": 49.99,
+      "credit_hours": 1
+    },
+    {
+      "img": "https://i.ibb.co/X5mnm82/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "course_detail": "Study fundamental algorithms and data structures.",
+      "price": 59.99,
+      "credit_hours": 2
+    },
+    {
+      "img": "https://i.ibb.co/6BHLgHY/Rectangle-2-4.png",
+      "course_name": "C++ for Data Structures and Algorithms",
+      "course_detail": "Explore C++ programming for DSA.",
+      "price": 79.99,
+      "credit_hours": 10
+    },
+    {
+      "img": "https://i.ibb.co/sQ25jnX/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "course_detail": "Learn foundational data structures and their use.",
+      "price": 99.99,
+      "credit_hours": 5
+    },
+    {
+      "img": "https://i.ibb.co/qD8xh7n/Rectangle-2.png",
+      "course_name": "Object-Oriented Programming in Python",
+      "course_detail": "Master Python's OOP concepts.",
+      "price": 69.99,
+      "credit_hours": 2
+    },
+    {
+      "img": "https://i.ibb.co/9Yk4JLs/Rectangle-2-5.png",
+      "course_name": "Software Engineering ",
+      "course_detail": "Explore software engineering practices and principles.",
+      "price": 89.99,
+      "credit_hours": 5
+    },
+    {
+      "img": "https://i.ibb.co/cJMhHc9/Rectangle-3-1.png",
+      "course_name": "AWS Cloud Computing",
+      "course_detail": "Learn cloud computing with AWS services.",
+      "price": 79.99,
+      "credit_hours": 5
+    },
+    {
+      "img": "https://i.ibb.co/F4yqJK8/Rectangle-2-1.png",
+      "course_name": "Database(MySQL)",
+      "course_detail": "Discover the basics of database management.",
+      "price": 59.99,
+      "credit_hours": 2
+    },
+    {
+      "img": "https://i.ibb.co/t3T8Jhj/Rectangle-2-6.png",
+      "course_name": "Problem Solving Strategies",
+      "course_detail": "Develop problem-solving skills and techniques.",
+      "price": 49.99,
+      "credit_hours": 3
+    }
+  ]
