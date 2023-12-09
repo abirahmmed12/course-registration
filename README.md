@@ -16,3 +16,5 @@ In our assignment project, we manage state using React's built-in useState hook.
 *Remaining Hours State (remainingHours) and Total Credit Hours State (totalCreditHours): We utilize the useState hook to track the remaining credit hours and the total credit hours of selected courses. When a course is selected, we update these states accordingly. We also implement checks to ensure that the total credit hours do not exceed 20.
 
 *React's useState hook provides a straightforward way to manage component-level state within functional components, making it easier to handle data and UI updates based on user interactions and external data sources.
+
+Live Link : https://steady-bienenstitch-ea3b3f.netlify.app/
